@@ -2749,8 +2749,10 @@ input, select, textarea {
 				transform: scale(1.1);
 			}
 
+			/* mouse over picture color tint */
+
 				body:not(.is-touch) .tiles article:hover > .image:before {
-					opacity: 0.35;
+					opacity: .35;
 				}
 
 				body:not(.is-touch) .tiles article:hover > .image:after {
